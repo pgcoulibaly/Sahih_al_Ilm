@@ -11,7 +11,7 @@
  **Note : la construction de l'index vectoriel est effectuée séparément du projet backend. L'index est considéré comme fonctionnel et accessible depuis l'API.**
 
 ```
-talib-assistant/
+ilm-assistant/
 │
 ├── backend/                            #  Serveur FastAPI
 │   ├── app/
